@@ -1,0 +1,1 @@
+Give a Html and css file that you make a 48Hours Build hackathon theme for my page and write down a small description about it and 3 label 1is 48H Build Window 2is $40k price pool and 3rd is max team,then add 2 buttom 1 is result and in booking then at the bottom add a time table and small info 50-100 world aslo add background theme
